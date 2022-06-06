@@ -28,5 +28,5 @@ Meu nome é Gustavo Pendeza, tenho 22 anos, sou formado em Análise Desenvolvime
 </div>
   
 ## 
-<a href="https://www.linkedin.com/in/gustavo-seiki-pendeza-094342193/" target="_blank"><img alt="Gustavo-Linkedin" title="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="-blank"></a>
+<a href="https://www.linkedin.com/in/gustavo-seiki-pendeza-094342193/" target="_blank"><img alt="Gustavo-Linkedin" title="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
