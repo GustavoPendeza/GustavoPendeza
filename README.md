@@ -1,5 +1,5 @@
 ## Bem vindo! 👾
-Meu nome é Gustavo Pendeza, tenho 22 anos, sou formado em Análise Desenvolvimento de Sistemas pela Universidade Positivo e estou buscando oportunidades como desenvolvedor júnior.
+Meu nome é Gustavo Pendeza, tenho 22 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo e estou buscando oportunidades como desenvolvedor júnior.
 
 ## Estudando/Já estudei 📚
 <div>
