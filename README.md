@@ -1,7 +1,7 @@
 ## Bem vindo! 👾
 Meu nome é Gustavo Pendeza, tenho 22 anos, sou formado em Análise Desenvolvimento de Sistemas pela Universidade Positivo e estou buscando oportunidades como desenvolvedor júnior.
 
-## Estudando atualmente/Já estudei 📚
+## Estudando/Já estudei 📚
 <div>
   <img alt="Gustavo-AdonisJs" title="AdonisJs" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white">
   <img alt="Gustavo-TS" title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
