@@ -24,10 +24,15 @@ Meu nome é Gustavo Pendeza, tenho 22 anos, sou formado em Análise e Desenvolvi
 ## Meus status do GitHub 📈
 <div>
   <a href="https://github.com/GustavoPendeza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopendeza&show_icons=true&theme=dracula&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopendeza&layout=compact&theme=dracula">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavopendeza&show_icons=true&theme=dracula&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopendeza&layout=compact&theme=dracula">
+  </a>
 </div>
   
 ## 
 <a href="https://www.linkedin.com/in/gustavo-seiki-pendeza-094342193/" target="_blank"><img alt="Gustavo-Linkedin" title="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
+
+##
+<a href="https://badgr.com/public/assertions/9h3pazSuQcaLIcwZ8s-Ncg"><img height="100em" title="Iniciativa DevOps - Docker" src="https://user-images.githubusercontent.com/53589614/172956892-cd5e9b75-e6d5-4f9c-bcc0-4ee05f6fc760.png"></a>
+
+
