@@ -11,6 +11,7 @@ Meu nome é Gustavo Pendeza, tenho 22 anos, sou formado em Análise e Desenvolvi
   <img alt="Gustavo-Flask" title="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="Gustavo-PHP" title="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img alt="Gustavo-Laravel" title="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img alt="Gustavo-Docker" title="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
 </div>
 
 ## Meus interesses e hobbys 🕹
