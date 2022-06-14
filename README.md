@@ -33,6 +33,11 @@ Meu nome é Gustavo Pendeza, tenho 22 anos, sou formado em Análise e Desenvolvi
 <a href="https://www.linkedin.com/in/gustavo-seiki-pendeza-094342193/" target="_blank"><img alt="Gustavo-Linkedin" title="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ##
-<a href="https://badgr.com/public/assertions/9h3pazSuQcaLIcwZ8s-Ncg"><img height="100em" title="Iniciativa DevOps - Docker" src="https://user-images.githubusercontent.com/53589614/172956892-cd5e9b75-e6d5-4f9c-bcc0-4ee05f6fc760.png"></a>
-
+<div>
+  <a href="https://badgr.com/public/assertions/9h3pazSuQcaLIcwZ8s-Ncg"><img height="100em" title="Iniciativa DevOps - Docker" src="https://user-images.githubusercontent.com/53589614/172956892-cd5e9b75-e6d5-4f9c-bcc0-4ee05f6fc760.png"></a>
+  <a href="https://badgr.com/public/assertions/KCjUMD_MQYmaskt1BZdJPQ"><img height="100em" title="Iniciativa DevOps - Kubernetes" src="https://user-images.githubusercontent.com/53589614/173660245-4a014cd0-5612-4e07-84f3-97cefe81f0c1.png"></a>
+  <a href="https://badgr.com/public/assertions/Fs7fTMuQR9e01s7F5TemGg"><img height="100em" title="Iniciativa DevOps - Terraform" src="https://user-images.githubusercontent.com/53589614/173661282-3f678699-9062-4f93-a475-bab9cad3a159.png"></a>
+  <a href="https://badgr.com/public/assertions/q8k7IJcpRI6Ar5lDjN9yPA"><img height="100em" title="Iniciativa DevOps - CI/CD" src="https://user-images.githubusercontent.com/53589614/173661592-4ffe894d-7681-4772-bae5-1e4a3fd7fcac.png"></a>
+  <a href="https://badgr.com/public/assertions/rt3GSIP6TQmaSdMkeawIVQ"><img height="100em" title="Iniciativa DevOps - Prometheus e Grafana" src="https://user-images.githubusercontent.com/53589614/173661841-7b71abbc-0dad-4a86-a8d7-f0dce602d48c.png"></a>
+</div>
 
