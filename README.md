@@ -33,7 +33,7 @@ Meu nome é Gustavo Pendeza, tenho 23 anos, sou formado em Análise e Desenvolvi
   
 ## Contatos
 <a href="https://www.linkedin.com/in/gustavo-seiki-pendeza/" target="_blank"><img alt="Gustavo-Linkedin" title="Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:g.pendeza@hotmail.com" target="_blank"><img alt="Gustavo-Email" title="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="mailto:g.pendeza@hotmail.com" target="_blank"><img alt="Gustavo-Email" title="g.pendeza@hotmail.com" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 
 ##
 <div>
