@@ -45,5 +45,6 @@ Meu nome é Gustavo Pendeza, tenho 23 anos, sou formado em Análise e Desenvolvi
   <a href="https://badgr.com/public/assertions/Fs7fTMuQR9e01s7F5TemGg"><img height="100em" title="Iniciativa DevOps - Terraform" src="https://user-images.githubusercontent.com/53589614/173661282-3f678699-9062-4f93-a475-bab9cad3a159.png"></a>
   <a href="https://badgr.com/public/assertions/q8k7IJcpRI6Ar5lDjN9yPA"><img height="100em" title="Iniciativa DevOps - CI/CD" src="https://user-images.githubusercontent.com/53589614/173661592-4ffe894d-7681-4772-bae5-1e4a3fd7fcac.png"></a>
   <a href="https://badgr.com/public/assertions/rt3GSIP6TQmaSdMkeawIVQ"><img height="100em" title="Iniciativa DevOps - Prometheus e Grafana" src="https://user-images.githubusercontent.com/53589614/173661841-7b71abbc-0dad-4a86-a8d7-f0dce602d48c.png"></a>
+  <a href="https://devchallenges.io/certificates/sV6E9A4gGRJQU5mdUyZ7"><img height="100em" title="DevChallenges Responsive Web Developer" src="https://github-production-user-asset-6210df.s3.amazonaws.com/53589614/238784143-04841210-4780-4a09-8ce0-409a27b8e6ff.png"></a>
 </div>
 
