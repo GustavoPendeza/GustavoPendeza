@@ -1,14 +1,14 @@
 ## Bem vindo! 👾
-Meu nome é Gustavo Pendeza, tenho 23 anos, sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo e estou buscando oportunidades como desenvolvedor júnior.
+Meu nome é Gustavo Pendeza, sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Positivo e atualmente trabalho como Software Developer pela BluePaper.
 
 ## Estudando/Já estudei 📚
 <div>
-  <img alt="Gustavo-AdonisJs" title="AdonisJs" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white">
-  <img alt="Gustavo-TS" title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Gustavo-JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="Gustavo-Nodejs" title="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Gustavo-React" title="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img alt="Gustavo-ReactNative" title="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Gustavo-AdonisJs" title="AdonisJs" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white">
+  <img alt="Gustavo-TS" title="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Gustavo-JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="Gustavo-Flutter" title="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img alt="Gustavo-Dart" title="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img alt="Gustavo-Py" title="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
